@@ -1,0 +1,159 @@
+[
+    {
+        "id": 1,
+        "type": "customer",
+        "events": [
+            {
+                "id": 1,
+                "interface": "query",
+                "branch": 1
+            },
+            {
+                "id": 2,
+                "interface": "deposit",
+                "money": 10,
+                "branch": 1
+            },
+            {
+                "id": 3,
+                "interface": "query",
+                "branch": 1
+            },
+            {
+                "id": 4,
+                "interface": "query",
+                "branch": 2
+            },
+            {
+                "id": 5,
+                "interface": "deposit",
+                "money": 10,
+                "branch": 2
+            },
+            {
+                "id": 6,
+                "interface": "query",
+                "branch": 2
+            },
+            {
+                "id": 7,
+                "interface": "query",
+                "branch": 3
+            },
+            {
+                "id": 8,
+                "interface": "deposit",
+                "money": 10,
+                "branch": 3
+            },
+            {
+                "id": 9,
+                "interface": "query",
+                "branch": 3
+            },
+            {
+                "id": 10,
+                "interface": "query",
+                "branch": 4
+            },
+            {
+                "id": 11,
+                "interface": "withdraw",
+                "money": 10,
+                "branch": 1
+            },
+            {
+                "id": 12,
+                "interface": "query",
+                "branch": 1
+            },
+            {
+                "id": 13,
+                "interface": "query",
+                "branch": 2
+            },
+            {
+                "id": 14,
+                "interface": "withdraw",
+                "money": 10,
+                "branch": 2
+            },
+            {
+                "id": 15,
+                "interface": "query",
+                "branch": 2
+            },
+            {
+                "id": 16,
+                "interface": "query",
+                "branch": 3
+            },
+            {
+                "id": 17,
+                "interface": "withdraw",
+                "money": 10,
+                "branch": 3
+            },
+            {
+                "id": 18,
+                "interface": "query",
+                "branch": 3
+            },
+            {
+                "id": 19,
+                "interface": "query",
+                "branch": 4
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "type": "branch",
+        "balance": 0
+    },
+    {
+        "id": 2,
+        "type": "branch",
+        "balance": 0
+    },
+    {
+        "id": 3,
+        "type": "branch",
+        "balance": 0
+    },
+    {
+        "id": 4,
+        "type": "branch",
+        "balance": 0
+    },
+    {
+        "id": 5,
+        "type": "branch",
+        "balance": 0
+    },
+    {
+        "id": 6,
+        "type": "branch",
+        "balance": 0
+    },
+    {
+        "id": 7,
+        "type": "branch",
+        "balance": 0
+    },
+    {
+        "id": 8,
+        "type": "branch",
+        "balance": 0
+    },
+    {
+        "id": 9,
+        "type": "branch",
+        "balance": 0
+    },
+    {
+        "id": 10,
+        "type": "branch",
+        "balance": 0
+    }
+]
